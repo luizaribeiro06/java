@@ -123,29 +123,6 @@ public class CondicoesColecoes {
         String resultado = (horaDia < 18) ? "Que dia lindo!" : "Que noite linda!";
         System.out.println(resultado);
 
-        //arrays primitivos - são rápidos, mas limitados
-        //só pode ter um tipo de dado na coleção
-        //basta usar o colchete
-        //!!! TODO ARRAY DE JAVA TEM ÍNDICE DE BASE 0
-        int[] numParesUmDigito = {2, 4, 6, 8};
-
-        //array só de string, por exemplo
-        String[] frutasM = {
-                "Melancia",
-                "Melão",
-                "Morango",
-                "Mamão"
-        };
-
-        //imprimindo um elemento de um Array Primitivo
-        //qualquer aplicação que tente acessar um índice que não existe, vai quebrar
-        System.out.println(frutasM[0]);
-
-        //tentando imprimir um array inteiro
-        //por enquanto é exibido apenas o endereço de memória
-        System.out.println(frutasM);
-
-        //listas - são mais lentas, mas extremamente cheias de recurso
-
     }
 }
+
