@@ -3,6 +3,7 @@
 - Operadores
 - String
 - Escopos
+- Condicionais
 - Arrays
 
 ## Extras
