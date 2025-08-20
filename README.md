@@ -4,7 +4,8 @@
 - String
 - Escopos
 - Condicionais
-- Arrays
+- Arrays e Listas
+- Funções
 
 ## Extras
 https://www.w3schools.com/java/ 
