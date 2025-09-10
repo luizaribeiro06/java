@@ -9,6 +9,8 @@
 - POO
   - Construtores, Inicialização de Dados e Encapsulamento
 - Pacotes e Classes
+- Wrapper Casting
+- +Conceitos: Herança e Polimorfismo
 
 ## Extras
 https://www.w3schools.com/java/ 
