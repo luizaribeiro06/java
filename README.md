@@ -11,6 +11,7 @@
 - Pacotes e Classes
 - Wrapper Casting
 - +Conceitos: Herança e Polimorfismo
+- Exceptions
 
 ## Extras
 https://www.w3schools.com/java/ 
