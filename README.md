@@ -12,6 +12,12 @@
 - Wrapper Casting
 - +Conceitos: Herança e Polimorfismo
 - Exceptions
+- Programação orientada à Interface
+  - Limitações de POO
+  - "herança múltipla"...
+  - Enums
+-  Records e Generics
+-  Lambda
 
 ## Extras
 https://www.w3schools.com/java/ 
