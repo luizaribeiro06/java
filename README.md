@@ -18,6 +18,7 @@
   - Enums
 -  Records e Generics
 -  Lambda
+-  Frameworks
 
 ## Extras
 https://www.w3schools.com/java/ 
