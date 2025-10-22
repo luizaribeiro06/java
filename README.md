@@ -19,6 +19,9 @@
 -  Records e Generics
 -  Lambda
 -  Frameworks
+-  JavaDoc
+-  Java e GUI: AWT & Swing
+-  DDD - Significado (Teoria de negócios/software)
 
 ## Extras
 https://www.w3schools.com/java/ 
