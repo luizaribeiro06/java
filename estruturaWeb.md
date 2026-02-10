@@ -7,6 +7,7 @@
 - Trabalhando com protocolo HTTP (protocolo)
 -   Tudo (imagem, áudio..etc) é transformado em hypertexto para se tornar navegável e enviado até o destino
 - O que são Status Codes?
+- O que é URI? (recurso)  
 - O que é uma API?
 - Conceitos de REST
 - O que é Endpoint e URI?
