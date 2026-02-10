@@ -14,7 +14,8 @@
   - Os recursos na web são identificados como URLs (acaba no .com .br) ou URIs (a partir da primeira /).
   - É uma sequência de caracteres que identifica um nome/recurso na web
 - O que é uma API?
-  - https://brasilapi.com.br/  
+  - https://brasilapi.com.br/
+  - Conjunto de padrões, ferramentas e protocolos que permitem a criação mais simplificada e segura de outros softwares.
 - Conceitos de REST
 - O que é Endpoint e URI?
 - O que é JSON?
