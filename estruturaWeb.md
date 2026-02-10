@@ -2,7 +2,8 @@
 ### Conceitos, fundamentos e fluxo de trabalho.
 
 - www - World Wide Web “Rede de alcance mundial”
-- Estrutura Cliente-Servidor
+  - Trabalha por meio de 3 parâmetros: URL, HTTP e o HTML. 
+- Estrutura Cliente-Servidor (cliente envia requisição - servidor responde requisição)
 - Trabalhando com protocolo HTTP
 - O que são Status Codes?
 - O que é uma API?
