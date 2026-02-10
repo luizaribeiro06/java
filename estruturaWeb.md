@@ -8,7 +8,7 @@
 -   Tudo (imagem, áudio..etc) é transformado em hypertexto para se tornar navegável e enviado até o destino
 - O que são Status Codes?
   - São respostas de três dígitos que um servidor retorna a pedido de clientes. (5 tipos de categorias) 
-  - 100 (informativas), 200 (resposta de sucesso), 300 (redirecionamentos), 400 () e 500 ()
+  - 100 (informativas), 200 (resposta de sucesso), 300 (redirecionamentos), 400 (erros de cliente) e 500 (erros de servidor)
   - https://httpstatus.io/ 
 - O que é URI? (recurso)
   - Os recursos na web são identificados como URLs (acaba no .com .br) ou URIs (a partir da primeira /).
