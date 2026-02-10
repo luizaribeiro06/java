@@ -7,6 +7,9 @@
 - Trabalhando com protocolo HTTP (protocolo)
 -   Tudo (imagem, áudio..etc) é transformado em hypertexto para se tornar navegável e enviado até o destino
 - O que são Status Codes?
+  - São respostas de três dígitos que um servidor retorna a pedido de clientes. (5 tipos de categorias) 
+  - 100 (informativas), 200 (resposta de sucesso), 300 (redirecionamentos), 400 () e 500 ()
+  - https://httpstatus.io/ 
 - O que é URI? (recurso)
   - Os recursos na web são identificados como URLs (acaba no .com .br) ou URIs (a partir da primeira /).
   - É uma sequência de caracteres que identifica um nome/recurso na web
