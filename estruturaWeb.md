@@ -14,7 +14,7 @@
   - https://brasilapi.com.br/
   - Conjunto de padrões, ferramentas e protocolos que permitem a criação mais simplificada e segura de outros softwares.
 - Conceitos de REST
-  - Modelo de arquitetura e não uma linguagem/tecnologia de programação, que fornece diretrizes para os sistemas 
+  - Modelo de arquitetura e não uma linguagem/tecnologia de programação, que fornece diretrizes para os sistemas distribuídos se comuniquem diretamente usando os princípios e protocolos existentes da Web sem necessidade de SOAP ou outro protocolo sofisticado.
 - O que é Endpoint e URI?
   - Todas as vezes que precisa "tocar" em um recurso é um endpoint
   - Os recursos na web são identificados como URLs (acaba no .com .br) ou URIs (a partir da primeira /).
