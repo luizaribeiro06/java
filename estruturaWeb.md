@@ -19,5 +19,5 @@
   - Todas as vezes que precisa "tocar" em um recurso é um endpoint
   - Os recursos na web são identificados como URLs (acaba no .com .br) ou URIs (a partir da primeira /).
   - URI é uma sequência de caracteres que identifica um nome/recurso na web
-- O que é JSON?
+- JSON
 - Testando Status e JSON
