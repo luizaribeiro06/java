@@ -7,7 +7,9 @@
 - Trabalhando com protocolo HTTP (protocolo)
 -   Tudo (imagem, áudio..etc) é transformado em hypertexto para se tornar navegável e enviado até o destino
 - O que são Status Codes?
-- O que é URI? (recurso)  
+- O que é URI? (recurso)
+  - Os recursos na web são identificados como URLs (acaba no .com .br) ou URIs (a partir da primeira /).
+  - É uma sequência de caracteres que identifica um nome/recurso na web
 - O que é uma API?
   - https://brasilapi.com.br/  
 - Conceitos de REST
