@@ -9,6 +9,7 @@
 - O que são Status Codes?
 - O que é URI? (recurso)  
 - O que é uma API?
+  - https://brasilapi.com.br/  
 - Conceitos de REST
 - O que é Endpoint e URI?
 - O que é JSON?
