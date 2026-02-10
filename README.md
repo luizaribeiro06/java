@@ -22,6 +22,7 @@
 -  JavaDoc
 -  Java e GUI: AWT & Swing
 -  DDD - Significado (Teoria de negócios/software)
+-  Estrutura Web
 
 ## Extras
 https://www.w3schools.com/java/ 
