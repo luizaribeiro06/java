@@ -1,20 +1,17 @@
 package com.curso.gameapi.models;
 
 import jakarta.persistence.*;
-
 import java.time.Year;
 
-//responsável por levar uma classe como uma entidade para o banco de dados
-@Entity
+@Entity //Responsável por levar uma classe como uma entidade para DB
 public class Game {
 
     //Propriedades
-
-    @Id //indica chave primária (PK)
-    @GeneratedValue(strategy = GenerationType.IDENTITY) //indica campo auto-gerado
+    @Id //Indica chave primária - PK
+    @GeneratedValue(strategy = GenerationType.IDENTITY) //Indica campo auto-gerado
     private Integer id;
 
-    @Column //indica um campo/coluna em uma entidade
+    @Column //Indica um campo/coluna em uma entidade
     private String title;
 
     @Column
@@ -26,12 +23,15 @@ public class Game {
     @Column
     private Year releaseYear;
 
-    //Construtores
+    //Contrutores
     public Game(String title, String publisher, String gender, Year releaseYear) {
         this.title = title;
         this.publisher = publisher;
         this.gender = gender;
         this.releaseYear = releaseYear;
+    }
+
+    public Game() {
     }
 
     //Getters
@@ -51,11 +51,11 @@ public class Game {
         return gender;
     }
 
-    public Year getYear() {
+    public Year getReleaseYear() {
         return releaseYear;
     }
 
-    //Setters (menos do ID pois quem irá tomar conta é o banco de dados)
+    //Setters
     public void setTitle(String title) {
         this.title = title;
     }
@@ -68,7 +68,7 @@ public class Game {
         this.gender = gender;
     }
 
-    public void setYear(Year releaseYear) {
+    public void setReleaseYear(Year releaseYear) {
         this.releaseYear = releaseYear;
     }
 
